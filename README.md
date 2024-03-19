@@ -10,6 +10,8 @@ The normalization and scaling files can be found at: [https://github.com/leap-st
 Use a one-layer NN to train and test. This will generate metric files for this model. Files will be stored in the ***metrics*** and ***metrics_netcdf*** folders.
 ## 3. Baseline model: CNN.ipynb
 Unfinished.
+## 3. Baseline model: MLP.ipynb
+Unfinished.
 ## 4. Baseline model: Transformer.ipynb
 Unfinished.
 # Do not use ***quickstart_example.ipynb*** since it does not provide the actual values for MAE/RMSE/R2.
