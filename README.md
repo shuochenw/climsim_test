@@ -11,7 +11,9 @@ Use a one-layer NN to train and test. This will generate metric files for this m
 ## 3. Baseline model: CNN.ipynb
 Unfinished.
 ## 3. Baseline model: MLP.ipynb
-Finished but showed a large error.
+Finished.
 ## 4. Baseline model: Transformer.ipynb
 Unfinished.
+## 5. reshape time space.ipynb
+Reshape the dataset to (time, space, 124 or 128) for later use.
 # Use ***test_model.ipynb*** to test a new model (a simple NN is already given in this file). Do not use ***quickstart_example.ipynb*** since it does not provide the actual values for MAE/RMSE/R2.
