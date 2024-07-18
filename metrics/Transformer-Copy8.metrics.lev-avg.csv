@@ -1,0 +1,11 @@
+Variable,MAE,RMSE,R2
+ptend_t,,,1.0
+ptend_q0001,,,1.0
+cam_out_NETSW,,,1.0
+cam_out_FLWDS,,,1.0
+cam_out_PRECSC,,,1.0
+cam_out_PRECC,,,1.0
+cam_out_SOLS,,,1.0
+cam_out_SOLL,,,1.0
+cam_out_SOLSD,,,1.0
+cam_out_SOLLD,,,1.0
