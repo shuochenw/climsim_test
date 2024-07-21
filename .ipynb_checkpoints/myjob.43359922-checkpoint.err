@@ -1,0 +1,2 @@
+slurmstepd: error: execve(): /home/wang.shuoc/climsim/transformer_test.py: Permission denied
+srun: error: c2206: task 0: Exited with exit code 13
